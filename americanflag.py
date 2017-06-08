@@ -1,6 +1,5 @@
     
 import turtle
-import random
 
 
 ### this function is drawn filling colors in the flag ### 
